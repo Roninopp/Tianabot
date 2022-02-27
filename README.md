@@ -68,7 +68,7 @@ Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed D
 
 
 ```console
-$ git clone https://github.com/Prince-Botz/TianaBot
+$ git clone https://github.com/Roninopp/TianaBot
 $ cd TianaBot
 $ pip3 install -U -r requirements.txt
 $ cp sample.env .env
